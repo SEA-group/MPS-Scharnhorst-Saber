@@ -1,1 +1,9 @@
-<GAS006_Focke_Wulf_Fw62_lod1.model><action><name>start</name><animation>CAA_aircraft_propeller_R</animation><filler>true</filler></action><exporter>1.6</exporter><parent>PnFMods/SEA_MPS_Scharnhorst_Saber/GSB507_Scharnhorst/aircraft/GAS006_Focke_Wulf_Fw62_lod2</parent><extent>20.000000</extent><materialNames /><castsShadow>true</castsShadow><animation><name>CAA_aircraft_propeller_R</name><frameRate>30.000000</frameRate><nodes>content/animation/common/CAA_aircraft_propeller_R</nodes><alpha><propeller_disk>0.000000</propeller_disk><disk>1.000000</disk></alpha></animation><nodefullVisual>PnFMods/SEA_MPS_Scharnhorst_Saber/GSB507_Scharnhorst/aircraft/GAS006_Focke_Wulf_Fw62_lod1</nodefullVisual><metaData>Wargaming | Lesta Studio</metaData></GAS006_Focke_Wulf_Fw62_lod1.model>
+<GAS006_Focke_Wulf_Fw62_lod1.model>
+	<exporter>	1.6	</exporter>
+	<parent>	PnFMods/SEA_MPS_Scharnhorst_Saber/GSB507_Scharnhorst/aircraft/GAS006_Focke_Wulf_Fw62_lod2	</parent>
+	<extent>	20.0000	</extent>
+	<materialNames />
+	<castsShadow>	true	</castsShadow>
+	<nodefullVisual>	PnFMods/SEA_MPS_Scharnhorst_Saber/GSB507_Scharnhorst/aircraft/GAS006_Focke_Wulf_Fw62_lod1	</nodefullVisual>
+	<metaData>	Wargaming | Lesta Studio	</metaData>
+</GAS006_Focke_Wulf_Fw62_lod1.model>

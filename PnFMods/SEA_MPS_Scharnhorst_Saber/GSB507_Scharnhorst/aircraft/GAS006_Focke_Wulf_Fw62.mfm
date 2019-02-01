@@ -1,0 +1,17 @@
+<GAS006_Focke_Wulf_Fw62.mfm>
+	<materialKind>	0	</materialKind>
+	<collisionFlags>	0	</collisionFlags>
+	<fx>	shaders/std_effects/PBS.fx	</fx>
+	<property>	ambientOcclusionMap
+		<Texture>	PnFMods/SEA_MPS_Scharnhorst_Saber/GSB507_Scharnhorst/aircraft/default_ao.dds	</Texture>
+	</property>
+	<property>	normalMap
+		<Texture>	PnFMods/SEA_MPS_Scharnhorst_Saber/GSB507_Scharnhorst/aircraft/GAS006_Focke_Wulf_Fw62_n.dds	</Texture>
+	</property>
+	<property>	metallicGlossMap
+		<Texture>	PnFMods/SEA_MPS_Scharnhorst_Saber/GSB507_Scharnhorst/aircraft/GAS006_Focke_Wulf_Fw62_mg.dds	</Texture>
+	</property>
+	<property>	diffuseMap
+		<Texture>	PnFMods/SEA_MPS_Scharnhorst_Saber/GSB507_Scharnhorst/aircraft/GAS006_Focke_Wulf_Fw62_a.dds	</Texture>
+	</property>
+</GAS006_Focke_Wulf_Fw62.mfm>

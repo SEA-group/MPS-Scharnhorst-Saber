@@ -1,1 +1,9 @@
-<GGA008_20mm_Flack_38_quad_dead_lod2.model><castsShadow>false</castsShadow><exporter>1.6</exporter><parent>PnFMods/SEA_MPS_Scharnhorst_Saber/GSB507_Scharnhorst/gun/GGA008_20mm_Flack_38_quad_dead_lod3</parent><extent>30.0000</extent><nodefullVisual>PnFMods/SEA_MPS_Scharnhorst_Saber/GSB507_Scharnhorst/gun/GGA008_20mm_Flack_38_quad_dead_lod2</nodefullVisual><materialNames /><metaData>Wargaming | Lesta Studio</metaData></GGA008_20mm_Flack_38_quad_dead_lod2.model>
+<GGA008_20mm_Flack_38_quad_dead_lod2.model>
+	<castsShadow>	false	</castsShadow>
+	<exporter>	1.6	</exporter>
+	<parent>	PnFMods/SEA_MPS_Scharnhorst_Saber/GSB507_Scharnhorst/gun/GGA008_20mm_Flack_38_quad_dead_lod3	</parent>
+	<extent>	30.0000	</extent>
+	<nodefullVisual>	PnFMods/SEA_MPS_Scharnhorst_Saber/GSB507_Scharnhorst/gun/GGA008_20mm_Flack_38_quad_dead_lod2	</nodefullVisual>
+	<materialNames />
+	<metaData>	Wargaming | Lesta Studio	</metaData>
+</GGA008_20mm_Flack_38_quad_dead_lod2.model>
