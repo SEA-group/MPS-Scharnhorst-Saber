@@ -889,24 +889,6 @@
 				</transform>
 			</node>
 			<node>
-				<identifier>	MP_GM001_Paravane	</identifier>
-				<transform>
-					<row0>	0.0000 -1.0000 0.0000 0.0000	</row0>
-					<row1>	1.0000 0.0000 0.0000 0.0000	</row1>
-					<row2>	0.0000 0.0000 1.0000 0.0000	</row2>
-					<row3>	-0.2327 0.5041 -1.3495 1.0000	</row3>
-				</transform>
-			</node>
-			<node>
-				<identifier>	MP_GM001_Paravane_INDEX_1	</identifier>
-				<transform>
-					<row0>	0.0000 1.0000 0.0000 0.0000	</row0>
-					<row1>	-1.0000 0.0000 0.0000 0.0000	</row1>
-					<row2>	0.0000 0.0000 1.0000 0.0000	</row2>
-					<row3>	0.2327 0.5041 -1.3495 1.0000	</row3>
-				</transform>
-			</node>
-			<node>
 				<identifier>	MP_GM003_Reels_1	</identifier>
 				<transform>
 					<row0>	0.7713 0.0000 -0.9193 0.0000	</row0>
@@ -1255,42 +1237,6 @@
 					<row1>	0.0000 1.0000 0.0000 0.0000	</row1>
 					<row2>	-1.0000 0.0000 0.0000 0.0000	</row2>
 					<row3>	0.3057 0.4383 0.2064 1.0000	</row3>
-				</transform>
-			</node>
-			<node>
-				<identifier>	MP_GM022_Freon_Cylinder_acetylene	</identifier>
-				<transform>
-					<row0>	0.9940 0.0000 0.1096 0.0000	</row0>
-					<row1>	0.0000 1.0000 0.0000 0.0000	</row1>
-					<row2>	-0.1096 0.0000 0.9940 0.0000	</row2>
-					<row3>	-0.7826 0.2744 -0.9607 1.0000	</row3>
-				</transform>
-			</node>
-			<node>
-				<identifier>	MP_GM022_Freon_Cylinder_acetylene_INDEX_1	</identifier>
-				<transform>
-					<row0>	-0.9892 0.0000 0.1467 0.0000	</row0>
-					<row1>	0.0000 1.0000 0.0000 0.0000	</row1>
-					<row2>	-0.1467 0.0000 -0.9892 0.0000	</row2>
-					<row3>	0.7897 0.2735 -0.1654 1.0000	</row3>
-				</transform>
-			</node>
-			<node>
-				<identifier>	MP_GM022_Freon_Cylinder_acetylene_INDEX_2	</identifier>
-				<transform>
-					<row0>	0.9940 0.0000 -0.1096 0.0000	</row0>
-					<row1>	0.0000 1.0000 0.0000 0.0000	</row1>
-					<row2>	0.1096 0.0000 0.9940 0.0000	</row2>
-					<row3>	0.7826 0.2744 -0.9607 1.0000	</row3>
-				</transform>
-			</node>
-			<node>
-				<identifier>	MP_GM022_Freon_Cylinder_acetylene_INDEX_3	</identifier>
-				<transform>
-					<row0>	-0.9892 0.0000 -0.1467 0.0000	</row0>
-					<row1>	0.0000 1.0000 0.0000 0.0000	</row1>
-					<row2>	0.1467 0.0000 -0.9892 0.0000	</row2>
-					<row3>	-0.7897 0.2735 -0.1654 1.0000	</row3>
 				</transform>
 			</node>
 			<node>

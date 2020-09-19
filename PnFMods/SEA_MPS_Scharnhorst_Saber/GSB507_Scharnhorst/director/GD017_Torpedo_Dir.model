@@ -1,6 +1,6 @@
 <GD017_Torpedo_Dir.model>
 	<exporter>	1.6	</exporter>
-	<parent>	PnFMods/SEA_MPS_Scharnhorst_Saber/GSB507_Scharnhorst/director/GD017_Torpedo_Dir_lod1	</parent>
+	<parent>	PnFMods/SEA_MPS_Scharnhorst_Saber/GSB507_Scharnhorst/director/lods/GD017_Torpedo_Dir_lod1	</parent>
 	<nodefullVisual>	PnFMods/SEA_MPS_Scharnhorst_Saber/GSB507_Scharnhorst/director/GD017_Torpedo_Dir	</nodefullVisual>
 	<extent>	2.000000	</extent>
 	<castsShadow>	false	</castsShadow>

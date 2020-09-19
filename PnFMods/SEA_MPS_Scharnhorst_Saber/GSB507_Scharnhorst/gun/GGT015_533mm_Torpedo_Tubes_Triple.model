@@ -1,6 +1,6 @@
 <GGT015_533mm_Torpedo_Tubes_Triple.model>
 	<exporter>	1.6	</exporter>
-	<parent>	PnFMods/SEA_MPS_Scharnhorst_Saber/GSB507_Scharnhorst/gun/GGT015_533mm_Torpedo_Tubes_Triple_lod1	</parent>
+	<parent>	PnFMods/SEA_MPS_Scharnhorst_Saber/GSB507_Scharnhorst/gun/lods/GGT015_533mm_Torpedo_Tubes_Triple_lod1	</parent>
 	<extent>	3.0000	</extent>
 	<castsShadow>	true	</castsShadow>
 	<nodefullVisual>	PnFMods/SEA_MPS_Scharnhorst_Saber/GSB507_Scharnhorst/gun/GGT015_533mm_Torpedo_Tubes_Triple	</nodefullVisual>

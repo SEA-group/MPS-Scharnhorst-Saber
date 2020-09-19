@@ -934,42 +934,6 @@
 				</transform>
 			</node>
 			<node>
-				<identifier>	MP_GM022_Freon_Cylinder_acetylene	</identifier>
-				<transform>
-					<row0>	0.7979 0.0000 -0.6027 0.0000	</row0>
-					<row1>	0.0000 1.0000 0.0000 0.0000	</row1>
-					<row2>	0.6027 0.0000 0.7979 0.0000	</row2>
-					<row3>	-0.3821 0.2743 1.3292 1.0000	</row3>
-				</transform>
-			</node>
-			<node>
-				<identifier>	MP_GM022_Freon_Cylinder_acetylene_INDEX_1	</identifier>
-				<transform>
-					<row0>	0.4693 0.0000 0.8830 0.0000	</row0>
-					<row1>	0.0000 1.0000 0.0000 0.0000	</row1>
-					<row2>	-0.8830 0.0000 0.4693 0.0000	</row2>
-					<row3>	0.3180 0.2743 1.2474 1.0000	</row3>
-				</transform>
-			</node>
-			<node>
-				<identifier>	MP_GM022_Freon_Cylinder_acetylene_INDEX_2	</identifier>
-				<transform>
-					<row0>	0.7979 0.0000 0.6027 0.0000	</row0>
-					<row1>	0.0000 1.0000 0.0000 0.0000	</row1>
-					<row2>	-0.6027 0.0000 0.7979 0.0000	</row2>
-					<row3>	0.3821 0.2743 1.3292 1.0000	</row3>
-				</transform>
-			</node>
-			<node>
-				<identifier>	MP_GM022_Freon_Cylinder_acetylene_INDEX_3	</identifier>
-				<transform>
-					<row0>	0.4693 0.0000 -0.8830 0.0000	</row0>
-					<row1>	0.0000 1.0000 0.0000 0.0000	</row1>
-					<row2>	0.8830 0.0000 0.4693 0.0000	</row2>
-					<row3>	-0.3180 0.2743 1.2474 1.0000	</row3>
-				</transform>
-			</node>
-			<node>
 				<identifier>	MP_GM023_Acetylen_Cylinder	</identifier>
 				<transform>
 					<row0>	-0.9876 0.0000 0.1568 0.0000	</row0>
@@ -1561,24 +1525,6 @@
 					<row1>	0.0000 1.0000 0.0000 0.0000	</row1>
 					<row2>	0.0000 0.0000 1.0000 0.0000	</row2>
 					<row3>	0.0240 2.4659 0.3496 1.0000	</row3>
-				</transform>
-			</node>
-			<node>
-				<identifier>	MP_GM954_Boat_Crane	</identifier>
-				<transform>
-					<row0>	-1.0000 0.0000 0.0000 0.0000	</row0>
-					<row1>	0.0000 1.0000 0.0000 0.0000	</row1>
-					<row2>	0.0000 0.0000 -1.0000 0.0000	</row2>
-					<row3>	-0.4423 0.7814 0.4624 1.0000	</row3>
-				</transform>
-			</node>
-			<node>
-				<identifier>	MP_GM954_Boat_Crane_INDEX_1	</identifier>
-				<transform>
-					<row0>	-1.0000 0.0000 0.0000 0.0000	</row0>
-					<row1>	0.0000 1.0000 0.0000 0.0000	</row1>
-					<row2>	0.0000 0.0000 -1.0000 0.0000	</row2>
-					<row3>	0.4424 0.7814 0.4624 1.0000	</row3>
 				</transform>
 			</node>
 		</node>

@@ -1,6 +1,6 @@
 <GF034_10_5m_Forteop_Rangefinder.model>
 	<exporter>	1.6	</exporter>
-	<parent>	PnFMods/SEA_MPS_Scharnhorst_Saber/GSB507_Scharnhorst/finder/GF034_10_5m_Forteop_Rangefinder_lod1	</parent>
+	<parent>	PnFMods/SEA_MPS_Scharnhorst_Saber/GSB507_Scharnhorst/finder/lods/GF034_10_5m_Forteop_Rangefinder_lod1	</parent>
 	<extent>	4.0000	</extent>
 	<materialNames />
 	<castsShadow>	false	</castsShadow>

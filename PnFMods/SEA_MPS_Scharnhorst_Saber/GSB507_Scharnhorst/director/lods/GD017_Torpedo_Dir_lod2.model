@@ -1,0 +1,8 @@
+<GD017_Torpedo_Dir_lod2.model>
+	<exporter>	1.6	</exporter>
+	<parent>	PnFMods/SEA_MPS_Scharnhorst_Saber/GSB507_Scharnhorst/director/lods/GD017_Torpedo_Dir_lod3	</parent>
+	<nodefullVisual>	PnFMods/SEA_MPS_Scharnhorst_Saber/GSB507_Scharnhorst/director/lods/GD017_Torpedo_Dir_lod2	</nodefullVisual>
+	<extent>	10.000000	</extent>
+	<castsShadow>	false	</castsShadow>
+	<metaData>	Wargaming | Lesta Studio	</metaData>
+</GD017_Torpedo_Dir_lod2.model>

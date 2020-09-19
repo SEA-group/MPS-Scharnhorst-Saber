@@ -1,7 +1,7 @@
 <GGS038_150mm_SK_C28_dead.model>
 	<castsShadow>	true	</castsShadow>
 	<exporter>	1.6	</exporter>
-	<parent>	PnFMods/SEA_MPS_Scharnhorst_Saber/GSB507_Scharnhorst/gun/GGS038_150mm_SK_C28_dead_lod1	</parent>
+	<parent>	PnFMods/SEA_MPS_Scharnhorst_Saber/GSB507_Scharnhorst/gun/lods/GGS038_150mm_SK_C28_dead_lod1	</parent>
 	<extent>	3.000000	</extent>
 	<materialNames />
 	<castsShadow>	true	</castsShadow>

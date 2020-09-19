@@ -1,0 +1,8 @@
+<GSB003_Scharnhorst_1939_Stern_lod1.model>
+	<exporter>	1.6	</exporter>
+	<parent>	PnFMods/SEA_MPS_Scharnhorst_Saber/GSB507_Scharnhorst/ship/lods/GSB003_Scharnhorst_1939_Stern_lod2	</parent>
+	<extent>	21.0000	</extent>
+	<castsShadow>	true	</castsShadow>
+	<nodefullVisual>	PnFMods/SEA_MPS_Scharnhorst_Saber/GSB507_Scharnhorst/ship/lods/GSB003_Scharnhorst_1939_Stern_lod1	</nodefullVisual>
+	<metaData>	Wargaming | Lesta Studio	</metaData>
+</GSB003_Scharnhorst_1939_Stern_lod1.model>
