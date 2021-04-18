@@ -74,7 +74,7 @@
 			<primitive>	Turret_lod3Shape.indices	</primitive>
 			<primitiveGroup>	0
 				<material>
-					<identifier>	SHIPMAT_PBS_GunX	</identifier>
+					<identifier>	SHIPMATX_PBS_GunX	</identifier>
 					<mfm>	PnFMods/SEA_MPS_Scharnhorst_Saber/GSB507_Scharnhorst/gun/GGT015_533mm_Torpedo_Tubes_Triple.mfm	</mfm>
 				</material>
 			</primitiveGroup>

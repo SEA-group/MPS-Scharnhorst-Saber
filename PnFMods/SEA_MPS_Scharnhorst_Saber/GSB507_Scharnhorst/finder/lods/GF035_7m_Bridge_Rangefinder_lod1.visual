@@ -25,7 +25,7 @@
 			<primitive>	GF035_7m_Bridge_Rangefinder_lod1Shape.indices	</primitive>
 			<primitiveGroup>	0
 				<material>
-					<identifier>	SHIPMAT_PBS_Director	</identifier>
+					<identifier>	SHIPMATX_PBS_Director	</identifier>
 					<mfm>	PnFMods/SEA_MPS_Scharnhorst_Saber/GSB507_Scharnhorst/finder/GF035_7m_Bridge_Rangefinder.mfm	</mfm>
 				</material>
 			</primitiveGroup>

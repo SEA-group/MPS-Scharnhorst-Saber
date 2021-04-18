@@ -128,7 +128,7 @@
 			<primitive>	GF034_10_5m_Forteop_Rangefinder_lod2Shape.indices	</primitive>
 			<primitiveGroup>	0
 				<material>
-					<identifier>	SHIPMAT_PBS_Director	</identifier>
+					<identifier>	SHIPMATX_PBS_Director	</identifier>
 					<mfm>	PnFMods/SEA_MPS_Scharnhorst_Saber/GSB507_Scharnhorst/finder/GF034_10_5m_Forteop_Rangefinder.mfm	</mfm>
 				</material>
 			</primitiveGroup>

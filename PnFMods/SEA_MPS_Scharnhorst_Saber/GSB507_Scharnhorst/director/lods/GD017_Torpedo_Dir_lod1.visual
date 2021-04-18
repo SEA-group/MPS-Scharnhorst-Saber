@@ -25,7 +25,7 @@
 			<primitive>	GD017_Torpedo_Dir_lod1Shape.indices	</primitive>
 			<primitiveGroup>	0
 				<material>
-					<identifier>	SHIPMAT_PBS_Misc	</identifier>
+					<identifier>	SHIPMATX_PBS_Misc	</identifier>
 					<mfm>	PnFMods/SEA_MPS_Scharnhorst_Saber/GSB507_Scharnhorst/director/GD017_Torpedo_Dir.mfm	</mfm>
 				</material>
 			</primitiveGroup>
